@@ -1,0 +1,32 @@
+.ketquahoctap {
+  font-family: Arial;
+  width: 350px;
+  background-color: #d995b9;
+  text-align: center;
+}
+.title_ht {
+  text-align: center;
+  font-size: 23px;
+  font-family: serif;
+  font-style: italic;
+  background-color: #cb3267;
+  color: #fff;
+}
+.row {
+  display: flex;
+  padding: 6px 12px;
+}
+.row .label {
+  width: 140px;
+  font-size: 0.8rem;
+  align-self: center;
+  text-align: left;
+}
+.row input {
+  width: 150px;
+}
+row input[type="submit"] {
+  background: #dbcec4;
+  width: 105px;
+  margin: 6px;
+}

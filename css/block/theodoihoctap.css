@@ -1,0 +1,60 @@
+.theodoihoctap {
+  font-family: Arial;
+  background-color: #eaf1f9;
+  font-size: 0.8rem;
+  width: 500px;
+}
+.title_tdht {
+  background-color: #6783a5;
+  font-weight: bold;
+  color: white;
+  height: 25px;
+  font-size: 20px;
+  text-align: center;
+}
+.label {
+  align-self: center;
+}
+.main_content div {
+  padding: 2px 0;
+}
+.name_stu {
+  display: flex;
+}
+.input {
+  flex-grow: 1;
+  text-align: right;
+}
+.input input {
+  width: 200px;
+}
+.class_date {
+  display: flex;
+}
+.class_date div {
+  flex-grow: 1;
+  display: flex;
+}
+.class,
+.date {
+  flex-grow: 1;
+}
+.class input,
+.date input {
+  width: 100px;
+}
+.img {
+  flex-grow: 1;
+  text-align: center;
+}
+input[type="submit"] {
+  background: #dbcec4;
+  margin: 6px;
+}
+.ticket {
+  background-color: #6783a5;
+  color: #fff;
+}
+.ticket div {
+    margin: 2px 15 px;
+}

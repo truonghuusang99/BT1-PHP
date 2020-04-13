@@ -1,0 +1,19 @@
+.ttdc {
+    width: 650px;
+    background-color: #fedfc0;
+    font-family: sans-serif;
+    font-size: 0.8rem;
+}
+.title_dc {
+    background-color: #cc0001;
+    color: #f0d10a;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.type, .position {
+    display: flex;
+}
+div {
+    align-self: center;
+}
