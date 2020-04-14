@@ -22,7 +22,7 @@ if (isset($_POST['submit']) && isset($_POST['hk1'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/edu/css/block/ketquahoctap.css">
+    <link rel="stylesheet" href="/bt1/css/block/ketquahoctap.css">
     <title>Kết quả học tập</title>
 </head>
 

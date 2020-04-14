@@ -12,7 +12,7 @@ if (isset($_POST["year"])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/edu/css/block/tinhnamamlich.css">
+    <link rel="stylesheet" href="/bt1/css/block/tinhnamamlich.css">
     <title>Tính năm âm lịch</title>
 </head>
 

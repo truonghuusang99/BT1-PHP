@@ -25,7 +25,7 @@ if (isset($_POST["commit_class"])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/edu/css/block/theodoihoctap.css">
+    <link rel="stylesheet" href="/bt1/css/block/theodoihoctap.css">
     <title>Theo Dõi Học Tập</title>
 </head>
 
@@ -56,7 +56,7 @@ if (isset($_POST["commit_class"])) {
                 <textarea style="width: 100%; height: 50px" name="ever_done" type="text"><?php if (isset($_POST["ever_done"])) echo $ever_done; ?></textarea>
             </div>
             <div class="img">
-                <img src="/edu/img/theodoihoctap/pencil.jpg" alt="pencil">
+                <img src="/bt1/img/theodoihoctap/pencil.jpg" alt="pencil">
             </div>
         </div>
         <div>Chọn hình thức hoàn thành</div>
