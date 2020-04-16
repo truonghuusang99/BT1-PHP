@@ -14,7 +14,7 @@
 .type, .position {
     display: flex;
 }
-div {
+.ttdc div {
     align-self: center;
     padding: 3px 10px;
 }
@@ -23,4 +23,8 @@ div {
     font-family: sans-serif;
     font-size: 0.8rem;
     background-color: #fedfc0;
+}
+.main_ttdc {
+    align-self: center;
+    padding: 3px 10px;
 }
