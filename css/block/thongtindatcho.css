@@ -16,4 +16,11 @@
 }
 div {
     align-self: center;
+    padding: 3px 10px;
+}
+.result {
+    width: 650px;
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    background-color: #fedfc0;
 }

@@ -32,6 +32,6 @@ if (isset($_POST["year"])) {
                 <input style="background-color: #fff9ad;" type="text" name="lunar" value="<?php if (isset($_POST["year"])) echo $year ?>" disabled="true" />
             </div>
         </div>
-        <img src="<?php if (isset($_POST["year"])) echo "/edu/img/tinhamlich/" . $year_end_name_num[$end_name_number] . ".jpg" ?>" alt="" width="150" height="90">
+        <img src="<?php if (isset($_POST["year"])) echo "/bt1/img/tinhamlich/" . $year_end_name_num[$end_name_number] . ".jpg" ?>" alt="" width="150" height="90">
     </form>
 </body>
